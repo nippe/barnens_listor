@@ -1,7 +1,9 @@
 # Barnens önskelistor
 
 ## Alfons 2016
- - [ ] LEGO NEXO - det mesta, småriddare (typ http://www.storochliten.se/produkt/lego-nexo-knights-70336-ultimate-axl), han har den gröna redan. Gärna byggnader också, finns olika prisklasser som vanligt med lego.
+ - [ ] LEGO - det mesta 
+   - småriddare NEXO (typ http://www.storochliten.se/produkt/lego-nexo-knights-70336-ultimate-axl), han har den gröna redan. Gärna byggnader också, finns olika prisklasser som vanligt med lego.
+   - Superhjältelego
 
  - [x] Swagboard / Balansskoter
 
