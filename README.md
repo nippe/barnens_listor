@@ -2,7 +2,7 @@
 
 ## Alfons 2016
  - [ ] LEGO - det mesta 
-   - småriddare NEXO (typ http://www.storochliten.se/produkt/lego-nexo-knights-70336-ultimate-axl), han har några redan. Gärna byggnader också, Han har någn "häst" och ett eldhammar fordon.
+   - småriddare NEXO (typ http://www.storochliten.se/produkt/lego-nexo-knights-70336-ultimate-axl), han har några redan. Gärna byggnader också, Han har någn "häst" och ett eldhammar fordon. **Han har fått rätt mycket Nexo-lego**
    - Superhjältelego
 
  - [x] Swagboard / Balansskoter
