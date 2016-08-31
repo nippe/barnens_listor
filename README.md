@@ -1,7 +1,7 @@
 # Barnens önskelistor
 
 ## Alfons 2016
- - [ ] LEGO - det mesta 
+ - [X] LEGO - det mesta 
    - småriddare NEXO (typ http://www.storochliten.se/produkt/lego-nexo-knights-70336-ultimate-axl), han har några redan. Gärna byggnader också, Han har någn "häst" och ett eldhammar fordon. **Han har fått rätt mycket Nexo-lego**
    - Superhjältelego
 
@@ -9,7 +9,7 @@
 
  - [ ] Fiskegrejor. Drag och annat
 
- - [ ] Minecraft till Xbox 360
+ - [x] Minecraft till Xbox 360
  (http://www.webhallen.com/se-sv/spel/xbox_360_downloads/233525-minecraft_xbox_360_edition&atcl=search:result)
 
  - [ ] Kylo-rens lasersvärd, gärna i serien "Bladebuilders" så man kan bygga ihop egna
@@ -17,7 +17,7 @@
 
  - [ ] Disney Infinity 3.0 Play set: Rise Against the Empire (http://www.toysrus.se/serier/disney-infinity/disney-infinity-3-d-0-rise-against-the-empire-play-set?id=907226&vid=498274#.V6w7npN97dQ)
 
- - [ ] NERF vapen alla är populära, nu har han hittat en star wars puffra, men de är rätt dyra (http://www.webhallen.com/se-sv/lek_och_gadgets/227551-nerf-star_wars_the_force_awakens-first_order_stormtrooper_deluxe_blaster&atcl=search:result)
+ - [x] NERF vapen alla är populära, nu har han hittat en star wars puffra, men de är rätt dyra (http://www.webhallen.com/se-sv/lek_och_gadgets/227551-nerf-star_wars_the_force_awakens-first_order_stormtrooper_deluxe_blaster&atcl=search:result)
 
  - [ ] Luftpistol för prickskytte på tavla (t ex hobbex / teknikmagasinet)
 
